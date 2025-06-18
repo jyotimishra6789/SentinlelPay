@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f8f8f8;
+  min-height: 100vh;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-top: 2rem;
+  color: #333;
+}
