@@ -1,0 +1,2422 @@
+[
+  {
+    "timestamp": "2025-06-19 11:36:33",
+    "input": {
+      "avg_speed": 10.949707365459371,
+      "max_speed": 20.100275992242246,
+      "num_events": 22.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-19 11:36:40",
+    "input": {
+      "avg_speed": 5.005841977245994,
+      "max_speed": 10.490427425818215,
+      "num_events": 22.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-19 11:36:44",
+    "input": {
+      "avg_speed": 6.245194798072017,
+      "max_speed": 32.138810918097306,
+      "num_events": 42.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:36:51",
+    "input": {
+      "avg_speed": 3.215074044801945,
+      "max_speed": 15.837283325035703,
+      "num_events": 59.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:36:52",
+    "input": {
+      "avg_speed": 9.325100231521043,
+      "max_speed": 23.113041623577054,
+      "num_events": 22.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:36:54",
+    "input": {
+      "avg_speed": 7.951033161235754,
+      "max_speed": 26.201237744086878,
+      "num_events": 21.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:38",
+    "input": {
+      "avg_speed": 11.23838909425284,
+      "max_speed": 13.756164494966793,
+      "num_events": 25.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:39",
+    "input": {
+      "avg_speed": 4.737384845023957,
+      "max_speed": 15.230466588567033,
+      "num_events": 25.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:45",
+    "input": {
+      "avg_speed": 9.324884308400097,
+      "max_speed": 31.40805455695196,
+      "num_events": 24.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:46",
+    "input": {
+      "avg_speed": 3.6239661947303485,
+      "max_speed": 31.861778105839463,
+      "num_events": 22.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:47",
+    "input": {
+      "avg_speed": 3.08164226534376,
+      "max_speed": 23.404004102962535,
+      "num_events": 38.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:47",
+    "input": {
+      "avg_speed": 7.720431591034437,
+      "max_speed": 29.792840166648503,
+      "num_events": 37.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:48",
+    "input": {
+      "avg_speed": 12.567352836458907,
+      "max_speed": 12.915199365483291,
+      "num_events": 33.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-19 11:38:48",
+    "input": {
+      "avg_speed": 8.047963960914194,
+      "max_speed": 21.86840308480125,
+      "num_events": 22.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:49",
+    "input": {
+      "avg_speed": 7.584450964375989,
+      "max_speed": 20.514921608741865,
+      "num_events": 21.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:50",
+    "input": {
+      "avg_speed": 8.608401428054856,
+      "max_speed": 31.150060585260224,
+      "num_events": 20.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:50",
+    "input": {
+      "avg_speed": 6.477087204417791,
+      "max_speed": 23.924893398750175,
+      "num_events": 57.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:51",
+    "input": {
+      "avg_speed": 3.5338923003786924,
+      "max_speed": 11.22725964813924,
+      "num_events": 21.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.06
+  },
+  {
+    "timestamp": "2025-06-19 11:38:52",
+    "input": {
+      "avg_speed": 12.684582263378601,
+      "max_speed": 39.548050177162665,
+      "num_events": 16.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:53",
+    "input": {
+      "avg_speed": 6.479653122632184,
+      "max_speed": 34.02619940472202,
+      "num_events": 51.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:53",
+    "input": {
+      "avg_speed": 7.673702713713906,
+      "max_speed": 39.05585475326812,
+      "num_events": 31.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:55",
+    "input": {
+      "avg_speed": 12.751898533949428,
+      "max_speed": 34.779508756969854,
+      "num_events": 54.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:38:58",
+    "input": {
+      "avg_speed": 5.852838552990931,
+      "max_speed": 15.308980831055889,
+      "num_events": 45.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:39:00",
+    "input": {
+      "avg_speed": 5.716123004594393,
+      "max_speed": 29.759588283618726,
+      "num_events": 27.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:39:01",
+    "input": {
+      "avg_speed": 8.702323588795277,
+      "max_speed": 23.05525365923014,
+      "num_events": 32.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:39:04",
+    "input": {
+      "avg_speed": 7.280580567869197,
+      "max_speed": 33.02503541104394,
+      "num_events": 35.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:39:05",
+    "input": {
+      "avg_speed": 4.990761178330386,
+      "max_speed": 27.762001482062423,
+      "num_events": 17.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:39:58",
+    "input": {
+      "avg_speed": 5.242083316822193,
+      "max_speed": 10.850410184359568,
+      "num_events": 55.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-19 11:40:01",
+    "input": {
+      "avg_speed": 6.507369937108999,
+      "max_speed": 21.5167141662085,
+      "num_events": 31.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:04",
+    "input": {
+      "avg_speed": 10.022417030818383,
+      "max_speed": 24.34954033642468,
+      "num_events": 36.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:05",
+    "input": {
+      "avg_speed": 8.540765633509064,
+      "max_speed": 33.96029244432977,
+      "num_events": 36.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:05",
+    "input": {
+      "avg_speed": 3.390755900519811,
+      "max_speed": 22.200854274566346,
+      "num_events": 20.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:06",
+    "input": {
+      "avg_speed": 6.825747449077575,
+      "max_speed": 20.17179468196802,
+      "num_events": 30.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-19 11:40:08",
+    "input": {
+      "avg_speed": 4.27338018765902,
+      "max_speed": 38.0702408711674,
+      "num_events": 23.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:09",
+    "input": {
+      "avg_speed": 4.986991051493194,
+      "max_speed": 28.734894637333525,
+      "num_events": 14.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:11",
+    "input": {
+      "avg_speed": 3.946530260854568,
+      "max_speed": 35.38562389149375,
+      "num_events": 13.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:13",
+    "input": {
+      "avg_speed": 6.8102014892339415,
+      "max_speed": 30.060348770523202,
+      "num_events": 43.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:14",
+    "input": {
+      "avg_speed": 10.179601053323958,
+      "max_speed": 37.19851725894735,
+      "num_events": 52.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:15",
+    "input": {
+      "avg_speed": 10.544182017909968,
+      "max_speed": 31.966966174185202,
+      "num_events": 39.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:16",
+    "input": {
+      "avg_speed": 9.418381846420683,
+      "max_speed": 23.052947118854572,
+      "num_events": 33.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:17",
+    "input": {
+      "avg_speed": 12.932227641418987,
+      "max_speed": 26.247951631032098,
+      "num_events": 43.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:40:17",
+    "input": {
+      "avg_speed": 6.034958601932972,
+      "max_speed": 31.394013796014658,
+      "num_events": 28.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:42:51",
+    "input": {
+      "avg_speed": 11.267170888530638,
+      "max_speed": 38.70138253427055,
+      "num_events": 21.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:42:52",
+    "input": {
+      "avg_speed": 3.9658572859487355,
+      "max_speed": 26.42615343367637,
+      "num_events": 45.0,
+      "event_clicks": 2.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:42:53",
+    "input": {
+      "avg_speed": 7.78806577884688,
+      "max_speed": 39.728592559982346,
+      "num_events": 47.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:42:53",
+    "input": {
+      "avg_speed": 12.546773113210916,
+      "max_speed": 32.798993953064695,
+      "num_events": 43.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:42:54",
+    "input": {
+      "avg_speed": 7.772631405946045,
+      "max_speed": 29.573689991782807,
+      "num_events": 44.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:42:54",
+    "input": {
+      "avg_speed": 11.818262441753674,
+      "max_speed": 16.752690618704374,
+      "num_events": 32.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:49:12",
+    "input": {
+      "avg_speed": 7.7164327922624665,
+      "max_speed": 20.140633013412113,
+      "num_events": 39.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-19 11:49:14",
+    "input": {
+      "avg_speed": 7.5965168516124235,
+      "max_speed": 20.748255265157653,
+      "num_events": 35.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-19 11:49:15",
+    "input": {
+      "avg_speed": 3.2040912568879003,
+      "max_speed": 19.958283699970977,
+      "num_events": 29.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-19 11:49:16",
+    "input": {
+      "avg_speed": 6.036617244802315,
+      "max_speed": 17.27880159752637,
+      "num_events": 15.0,
+      "event_clicks": 3.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-20 08:45:47",
+    "input": {
+      "avg_speed": 9.91979742613267,
+      "max_speed": 30.40267653435385,
+      "num_events": 30.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-20 08:45:48",
+    "input": {
+      "avg_speed": 3.8997281504050134,
+      "max_speed": 30.73900267437635,
+      "num_events": 24.0,
+      "event_clicks": 4.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-20 08:45:49",
+    "input": {
+      "avg_speed": 10.080478743828657,
+      "max_speed": 29.613724162047518,
+      "num_events": 21.0,
+      "event_clicks": 1.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-20 09:05:17",
+    "input": {
+      "avg_speed": 0.0419,
+      "max_speed": 7.32,
+      "num_events": 82.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:05:19",
+    "input": {
+      "avg_speed": 0.0342,
+      "max_speed": 9.8,
+      "num_events": 113.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:05:20",
+    "input": {
+      "avg_speed": 0.029,
+      "max_speed": 9.21,
+      "num_events": 82.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:05:21",
+    "input": {
+      "avg_speed": 0.0402,
+      "max_speed": 8.1,
+      "num_events": 117.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:05:50",
+    "input": {
+      "avg_speed": 0.04,
+      "max_speed": 6.82,
+      "num_events": 90.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:05:52",
+    "input": {
+      "avg_speed": 0.0329,
+      "max_speed": 8.91,
+      "num_events": 119.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:05:54",
+    "input": {
+      "avg_speed": 0.041,
+      "max_speed": 6.31,
+      "num_events": 110.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.95
+  },
+  {
+    "timestamp": "2025-06-20 09:05:56",
+    "input": {
+      "avg_speed": 0.0371,
+      "max_speed": 9.77,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:05:58",
+    "input": {
+      "avg_speed": 0.0363,
+      "max_speed": 6.34,
+      "num_events": 96.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:05:59",
+    "input": {
+      "avg_speed": 0.0337,
+      "max_speed": 9.67,
+      "num_events": 106.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:00",
+    "input": {
+      "avg_speed": 0.0281,
+      "max_speed": 9.38,
+      "num_events": 82.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:01",
+    "input": {
+      "avg_speed": 0.04,
+      "max_speed": 6.15,
+      "num_events": 80.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:02",
+    "input": {
+      "avg_speed": 0.0404,
+      "max_speed": 8.89,
+      "num_events": 106.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:02",
+    "input": {
+      "avg_speed": 0.0159,
+      "max_speed": 6.45,
+      "num_events": 103.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:03",
+    "input": {
+      "avg_speed": 0.0178,
+      "max_speed": 6.11,
+      "num_events": 102.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:04",
+    "input": {
+      "avg_speed": 0.0211,
+      "max_speed": 6.71,
+      "num_events": 114.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:05",
+    "input": {
+      "avg_speed": 0.0322,
+      "max_speed": 6.66,
+      "num_events": 116.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:05",
+    "input": {
+      "avg_speed": 0.0219,
+      "max_speed": 8.18,
+      "num_events": 96.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.97
+  },
+  {
+    "timestamp": "2025-06-20 09:06:06",
+    "input": {
+      "avg_speed": 0.033,
+      "max_speed": 6.81,
+      "num_events": 96.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:07",
+    "input": {
+      "avg_speed": 0.0446,
+      "max_speed": 6.91,
+      "num_events": 85.0,
+      "event_clicks": 22.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:07",
+    "input": {
+      "avg_speed": 0.0267,
+      "max_speed": 9.54,
+      "num_events": 95.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.97
+  },
+  {
+    "timestamp": "2025-06-20 09:06:08",
+    "input": {
+      "avg_speed": 0.0239,
+      "max_speed": 6.49,
+      "num_events": 111.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:09",
+    "input": {
+      "avg_speed": 0.0418,
+      "max_speed": 9.15,
+      "num_events": 107.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:10",
+    "input": {
+      "avg_speed": 0.0179,
+      "max_speed": 7.52,
+      "num_events": 106.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:11",
+    "input": {
+      "avg_speed": 0.0195,
+      "max_speed": 6.82,
+      "num_events": 98.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:12",
+    "input": {
+      "avg_speed": 0.0332,
+      "max_speed": 9.03,
+      "num_events": 101.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:13",
+    "input": {
+      "avg_speed": 0.0443,
+      "max_speed": 7.75,
+      "num_events": 94.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:13",
+    "input": {
+      "avg_speed": 0.0335,
+      "max_speed": 6.76,
+      "num_events": 100.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:14",
+    "input": {
+      "avg_speed": 0.0338,
+      "max_speed": 8.19,
+      "num_events": 95.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.97
+  },
+  {
+    "timestamp": "2025-06-20 09:06:15",
+    "input": {
+      "avg_speed": 0.0292,
+      "max_speed": 8.96,
+      "num_events": 117.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:16",
+    "input": {
+      "avg_speed": 0.0295,
+      "max_speed": 8.47,
+      "num_events": 117.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:16",
+    "input": {
+      "avg_speed": 0.0428,
+      "max_speed": 7.44,
+      "num_events": 90.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:17",
+    "input": {
+      "avg_speed": 0.0395,
+      "max_speed": 6.49,
+      "num_events": 117.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:17",
+    "input": {
+      "avg_speed": 0.0175,
+      "max_speed": 8.8,
+      "num_events": 82.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:18",
+    "input": {
+      "avg_speed": 0.0359,
+      "max_speed": 9.15,
+      "num_events": 81.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:18",
+    "input": {
+      "avg_speed": 0.0226,
+      "max_speed": 8.59,
+      "num_events": 108.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:19",
+    "input": {
+      "avg_speed": 0.0355,
+      "max_speed": 9.64,
+      "num_events": 102.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:19",
+    "input": {
+      "avg_speed": 0.0435,
+      "max_speed": 6.76,
+      "num_events": 98.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:20",
+    "input": {
+      "avg_speed": 0.0446,
+      "max_speed": 9.04,
+      "num_events": 90.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:24",
+    "input": {
+      "avg_speed": 0.0426,
+      "max_speed": 6.63,
+      "num_events": 81.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:26",
+    "input": {
+      "avg_speed": 0.0431,
+      "max_speed": 7.2,
+      "num_events": 105.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:29",
+    "input": {
+      "avg_speed": 0.0437,
+      "max_speed": 6.82,
+      "num_events": 96.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:33",
+    "input": {
+      "avg_speed": 0.0177,
+      "max_speed": 9.86,
+      "num_events": 109.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:35",
+    "input": {
+      "avg_speed": 0.0229,
+      "max_speed": 8.08,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:37",
+    "input": {
+      "avg_speed": 0.0194,
+      "max_speed": 6.65,
+      "num_events": 104.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:40",
+    "input": {
+      "avg_speed": 0.0261,
+      "max_speed": 8.91,
+      "num_events": 88.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:42",
+    "input": {
+      "avg_speed": 0.0311,
+      "max_speed": 7.98,
+      "num_events": 94.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:44",
+    "input": {
+      "avg_speed": 0.0152,
+      "max_speed": 6.92,
+      "num_events": 118.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:44",
+    "input": {
+      "avg_speed": 0.0369,
+      "max_speed": 6.51,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:45",
+    "input": {
+      "avg_speed": 0.0154,
+      "max_speed": 8.93,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:46",
+    "input": {
+      "avg_speed": 0.0174,
+      "max_speed": 8.54,
+      "num_events": 104.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.97
+  },
+  {
+    "timestamp": "2025-06-20 09:06:46",
+    "input": {
+      "avg_speed": 0.0418,
+      "max_speed": 7.4,
+      "num_events": 92.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:47",
+    "input": {
+      "avg_speed": 0.0379,
+      "max_speed": 8.34,
+      "num_events": 94.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:48",
+    "input": {
+      "avg_speed": 0.0344,
+      "max_speed": 6.48,
+      "num_events": 96.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:48",
+    "input": {
+      "avg_speed": 0.0215,
+      "max_speed": 6.91,
+      "num_events": 115.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:49",
+    "input": {
+      "avg_speed": 0.0212,
+      "max_speed": 8.85,
+      "num_events": 103.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:50",
+    "input": {
+      "avg_speed": 0.0203,
+      "max_speed": 7.36,
+      "num_events": 90.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:50",
+    "input": {
+      "avg_speed": 0.0423,
+      "max_speed": 6.44,
+      "num_events": 116.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:51",
+    "input": {
+      "avg_speed": 0.0422,
+      "max_speed": 7.64,
+      "num_events": 93.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:52",
+    "input": {
+      "avg_speed": 0.0301,
+      "max_speed": 8.87,
+      "num_events": 115.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:52",
+    "input": {
+      "avg_speed": 0.0251,
+      "max_speed": 9.02,
+      "num_events": 119.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:53",
+    "input": {
+      "avg_speed": 0.0217,
+      "max_speed": 6.0,
+      "num_events": 118.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:53",
+    "input": {
+      "avg_speed": 0.0182,
+      "max_speed": 9.9,
+      "num_events": 100.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:54",
+    "input": {
+      "avg_speed": 0.0349,
+      "max_speed": 6.51,
+      "num_events": 108.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:54",
+    "input": {
+      "avg_speed": 0.0404,
+      "max_speed": 7.29,
+      "num_events": 111.0,
+      "event_clicks": 22.0
+    },
+    "prediction": 1,
+    "trust_score": 0.95
+  },
+  {
+    "timestamp": "2025-06-20 09:06:55",
+    "input": {
+      "avg_speed": 0.0408,
+      "max_speed": 9.83,
+      "num_events": 119.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:55",
+    "input": {
+      "avg_speed": 0.0416,
+      "max_speed": 7.44,
+      "num_events": 85.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:06:56",
+    "input": {
+      "avg_speed": 0.0165,
+      "max_speed": 6.89,
+      "num_events": 98.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:57",
+    "input": {
+      "avg_speed": 0.021,
+      "max_speed": 8.63,
+      "num_events": 113.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:06:57",
+    "input": {
+      "avg_speed": 0.0204,
+      "max_speed": 7.24,
+      "num_events": 91.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:57",
+    "input": {
+      "avg_speed": 0.0292,
+      "max_speed": 7.31,
+      "num_events": 119.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:58",
+    "input": {
+      "avg_speed": 0.0271,
+      "max_speed": 7.03,
+      "num_events": 107.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:06:59",
+    "input": {
+      "avg_speed": 0.0288,
+      "max_speed": 7.23,
+      "num_events": 109.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:07:00",
+    "input": {
+      "avg_speed": 0.0192,
+      "max_speed": 7.5,
+      "num_events": 116.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:07:00",
+    "input": {
+      "avg_speed": 0.0342,
+      "max_speed": 6.08,
+      "num_events": 113.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:07:01",
+    "input": {
+      "avg_speed": 0.0439,
+      "max_speed": 6.38,
+      "num_events": 109.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:07:02",
+    "input": {
+      "avg_speed": 0.0444,
+      "max_speed": 8.72,
+      "num_events": 107.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:07:02",
+    "input": {
+      "avg_speed": 0.022,
+      "max_speed": 7.08,
+      "num_events": 95.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.96
+  },
+  {
+    "timestamp": "2025-06-20 09:07:03",
+    "input": {
+      "avg_speed": 0.0449,
+      "max_speed": 6.8,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.02
+  },
+  {
+    "timestamp": "2025-06-20 09:07:04",
+    "input": {
+      "avg_speed": 0.0203,
+      "max_speed": 8.73,
+      "num_events": 91.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.03
+  },
+  {
+    "timestamp": "2025-06-20 09:14:40",
+    "input": {
+      "avg_speed": 0.0405,
+      "max_speed": 9.1,
+      "num_events": 103.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:41",
+    "input": {
+      "avg_speed": 0.0303,
+      "max_speed": 8.63,
+      "num_events": 90.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.68
+  },
+  {
+    "timestamp": "2025-06-20 09:14:43",
+    "input": {
+      "avg_speed": 0.0178,
+      "max_speed": 8.35,
+      "num_events": 104.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:44",
+    "input": {
+      "avg_speed": 0.0266,
+      "max_speed": 8.49,
+      "num_events": 88.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:45",
+    "input": {
+      "avg_speed": 0.0293,
+      "max_speed": 8.24,
+      "num_events": 102.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:46",
+    "input": {
+      "avg_speed": 0.0328,
+      "max_speed": 9.98,
+      "num_events": 100.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:47",
+    "input": {
+      "avg_speed": 0.0347,
+      "max_speed": 6.71,
+      "num_events": 86.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.68
+  },
+  {
+    "timestamp": "2025-06-20 09:14:48",
+    "input": {
+      "avg_speed": 0.0364,
+      "max_speed": 7.15,
+      "num_events": 80.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.01
+  },
+  {
+    "timestamp": "2025-06-20 09:14:48",
+    "input": {
+      "avg_speed": 0.0204,
+      "max_speed": 8.37,
+      "num_events": 90.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.68
+  },
+  {
+    "timestamp": "2025-06-20 09:14:49",
+    "input": {
+      "avg_speed": 0.0389,
+      "max_speed": 7.22,
+      "num_events": 83.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:50",
+    "input": {
+      "avg_speed": 0.0372,
+      "max_speed": 6.52,
+      "num_events": 96.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.68
+  },
+  {
+    "timestamp": "2025-06-20 09:14:51",
+    "input": {
+      "avg_speed": 0.0162,
+      "max_speed": 7.19,
+      "num_events": 84.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:52",
+    "input": {
+      "avg_speed": 0.0284,
+      "max_speed": 6.26,
+      "num_events": 82.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:53",
+    "input": {
+      "avg_speed": 0.0346,
+      "max_speed": 6.8,
+      "num_events": 102.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:53",
+    "input": {
+      "avg_speed": 0.0168,
+      "max_speed": 8.89,
+      "num_events": 88.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:14:54",
+    "input": {
+      "avg_speed": 0.0351,
+      "max_speed": 9.85,
+      "num_events": 98.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.68
+  },
+  {
+    "timestamp": "2025-06-20 09:14:55",
+    "input": {
+      "avg_speed": 0.0448,
+      "max_speed": 6.46,
+      "num_events": 110.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0
+  },
+  {
+    "timestamp": "2025-06-20 09:21:30",
+    "input": {
+      "avg_speed": 0.0276,
+      "max_speed": 6.98,
+      "num_events": 110.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:31",
+    "input": {
+      "avg_speed": 0.0361,
+      "max_speed": 6.25,
+      "num_events": 117.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:33",
+    "input": {
+      "avg_speed": 0.0411,
+      "max_speed": 7.58,
+      "num_events": 94.0,
+      "event_clicks": 22.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7103
+  },
+  {
+    "timestamp": "2025-06-20 09:21:34",
+    "input": {
+      "avg_speed": 0.0198,
+      "max_speed": 7.16,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:36",
+    "input": {
+      "avg_speed": 0.0366,
+      "max_speed": 7.05,
+      "num_events": 87.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:21:37",
+    "input": {
+      "avg_speed": 0.0243,
+      "max_speed": 8.34,
+      "num_events": 85.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:21:38",
+    "input": {
+      "avg_speed": 0.0235,
+      "max_speed": 8.97,
+      "num_events": 89.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:39",
+    "input": {
+      "avg_speed": 0.0409,
+      "max_speed": 6.99,
+      "num_events": 84.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7242
+  },
+  {
+    "timestamp": "2025-06-20 09:21:40",
+    "input": {
+      "avg_speed": 0.0297,
+      "max_speed": 8.25,
+      "num_events": 109.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:41",
+    "input": {
+      "avg_speed": 0.0181,
+      "max_speed": 7.46,
+      "num_events": 86.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:21:42",
+    "input": {
+      "avg_speed": 0.0309,
+      "max_speed": 9.16,
+      "num_events": 113.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:44",
+    "input": {
+      "avg_speed": 0.0377,
+      "max_speed": 9.35,
+      "num_events": 108.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:45",
+    "input": {
+      "avg_speed": 0.0323,
+      "max_speed": 8.44,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:46",
+    "input": {
+      "avg_speed": 0.0216,
+      "max_speed": 6.72,
+      "num_events": 99.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7121
+  },
+  {
+    "timestamp": "2025-06-20 09:21:46",
+    "input": {
+      "avg_speed": 0.0328,
+      "max_speed": 9.81,
+      "num_events": 104.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:21:47",
+    "input": {
+      "avg_speed": 0.0223,
+      "max_speed": 6.68,
+      "num_events": 101.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:21:48",
+    "input": {
+      "avg_speed": 0.0165,
+      "max_speed": 8.77,
+      "num_events": 84.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:30:09",
+    "input": {
+      "avg_speed": 0.0426,
+      "max_speed": 7.65,
+      "num_events": 115.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:10",
+    "input": {
+      "avg_speed": 0.0192,
+      "max_speed": 7.34,
+      "num_events": 106.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:30:11",
+    "input": {
+      "avg_speed": 0.0257,
+      "max_speed": 9.31,
+      "num_events": 114.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:12",
+    "input": {
+      "avg_speed": 0.0235,
+      "max_speed": 9.6,
+      "num_events": 81.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0558
+  },
+  {
+    "timestamp": "2025-06-20 09:30:13",
+    "input": {
+      "avg_speed": 0.0221,
+      "max_speed": 8.72,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:14",
+    "input": {
+      "avg_speed": 0.0353,
+      "max_speed": 7.66,
+      "num_events": 108.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:15",
+    "input": {
+      "avg_speed": 0.018,
+      "max_speed": 6.39,
+      "num_events": 100.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:16",
+    "input": {
+      "avg_speed": 0.0321,
+      "max_speed": 9.01,
+      "num_events": 106.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:30:17",
+    "input": {
+      "avg_speed": 0.0282,
+      "max_speed": 9.42,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:17",
+    "input": {
+      "avg_speed": 0.0383,
+      "max_speed": 7.14,
+      "num_events": 97.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7121
+  },
+  {
+    "timestamp": "2025-06-20 09:30:18",
+    "input": {
+      "avg_speed": 0.0276,
+      "max_speed": 8.53,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:19",
+    "input": {
+      "avg_speed": 0.041,
+      "max_speed": 9.36,
+      "num_events": 83.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:30:20",
+    "input": {
+      "avg_speed": 0.0287,
+      "max_speed": 7.58,
+      "num_events": 101.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:20",
+    "input": {
+      "avg_speed": 0.0341,
+      "max_speed": 6.8,
+      "num_events": 88.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:30:21",
+    "input": {
+      "avg_speed": 0.0186,
+      "max_speed": 8.66,
+      "num_events": 92.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:30:22",
+    "input": {
+      "avg_speed": 0.0427,
+      "max_speed": 6.8,
+      "num_events": 85.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7144
+  },
+  {
+    "timestamp": "2025-06-20 09:30:22",
+    "input": {
+      "avg_speed": 0.0388,
+      "max_speed": 7.19,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:03",
+    "input": {
+      "avg_speed": 0.0231,
+      "max_speed": 7.93,
+      "num_events": 119.0,
+      "event_clicks": 23.0
+    },
+    "prediction": 1,
+    "trust_score": 0.699
+  },
+  {
+    "timestamp": "2025-06-20 09:42:04",
+    "input": {
+      "avg_speed": 0.0435,
+      "max_speed": 9.52,
+      "num_events": 81.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0558
+  },
+  {
+    "timestamp": "2025-06-20 09:42:06",
+    "input": {
+      "avg_speed": 0.018,
+      "max_speed": 8.44,
+      "num_events": 106.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7184
+  },
+  {
+    "timestamp": "2025-06-20 09:42:07",
+    "input": {
+      "avg_speed": 0.016,
+      "max_speed": 7.18,
+      "num_events": 80.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0563
+  },
+  {
+    "timestamp": "2025-06-20 09:42:08",
+    "input": {
+      "avg_speed": 0.025,
+      "max_speed": 9.03,
+      "num_events": 118.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.699
+  },
+  {
+    "timestamp": "2025-06-20 09:42:09",
+    "input": {
+      "avg_speed": 0.0389,
+      "max_speed": 8.3,
+      "num_events": 82.0,
+      "event_clicks": 22.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7237
+  },
+  {
+    "timestamp": "2025-06-20 09:42:10",
+    "input": {
+      "avg_speed": 0.022,
+      "max_speed": 8.99,
+      "num_events": 106.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:42:11",
+    "input": {
+      "avg_speed": 0.0328,
+      "max_speed": 9.8,
+      "num_events": 111.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:12",
+    "input": {
+      "avg_speed": 0.0316,
+      "max_speed": 7.95,
+      "num_events": 81.0,
+      "event_clicks": 22.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7318
+  },
+  {
+    "timestamp": "2025-06-20 09:42:14",
+    "input": {
+      "avg_speed": 0.026,
+      "max_speed": 6.45,
+      "num_events": 84.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7242
+  },
+  {
+    "timestamp": "2025-06-20 09:42:14",
+    "input": {
+      "avg_speed": 0.0387,
+      "max_speed": 7.46,
+      "num_events": 82.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0558
+  },
+  {
+    "timestamp": "2025-06-20 09:42:15",
+    "input": {
+      "avg_speed": 0.0217,
+      "max_speed": 7.7,
+      "num_events": 115.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:16",
+    "input": {
+      "avg_speed": 0.0348,
+      "max_speed": 7.61,
+      "num_events": 93.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:17",
+    "input": {
+      "avg_speed": 0.0186,
+      "max_speed": 6.37,
+      "num_events": 109.0,
+      "event_clicks": 21.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7129
+  },
+  {
+    "timestamp": "2025-06-20 09:42:18",
+    "input": {
+      "avg_speed": 0.0346,
+      "max_speed": 7.97,
+      "num_events": 95.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:20",
+    "input": {
+      "avg_speed": 0.0243,
+      "max_speed": 6.19,
+      "num_events": 97.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:21",
+    "input": {
+      "avg_speed": 0.0157,
+      "max_speed": 7.69,
+      "num_events": 87.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:42:23",
+    "input": {
+      "avg_speed": 0.0365,
+      "max_speed": 9.87,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:23",
+    "input": {
+      "avg_speed": 0.0404,
+      "max_speed": 9.63,
+      "num_events": 89.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:25",
+    "input": {
+      "avg_speed": 0.0233,
+      "max_speed": 8.49,
+      "num_events": 108.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:28",
+    "input": {
+      "avg_speed": 0.0339,
+      "max_speed": 9.42,
+      "num_events": 90.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:34",
+    "input": {
+      "avg_speed": 0.0422,
+      "max_speed": 9.73,
+      "num_events": 117.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:36",
+    "input": {
+      "avg_speed": 0.0255,
+      "max_speed": 8.82,
+      "num_events": 112.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:37",
+    "input": {
+      "avg_speed": 0.0391,
+      "max_speed": 7.13,
+      "num_events": 100.0,
+      "event_clicks": 20.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7121
+  },
+  {
+    "timestamp": "2025-06-20 09:42:38",
+    "input": {
+      "avg_speed": 0.0249,
+      "max_speed": 9.85,
+      "num_events": 96.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:39",
+    "input": {
+      "avg_speed": 0.0239,
+      "max_speed": 9.37,
+      "num_events": 111.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:41",
+    "input": {
+      "avg_speed": 0.0385,
+      "max_speed": 6.49,
+      "num_events": 100.0,
+      "event_clicks": 22.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7121
+  },
+  {
+    "timestamp": "2025-06-20 09:42:41",
+    "input": {
+      "avg_speed": 0.0408,
+      "max_speed": 8.78,
+      "num_events": 98.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:42",
+    "input": {
+      "avg_speed": 0.0228,
+      "max_speed": 8.13,
+      "num_events": 96.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:43",
+    "input": {
+      "avg_speed": 0.0161,
+      "max_speed": 6.75,
+      "num_events": 88.0,
+      "event_clicks": 24.0
+    },
+    "prediction": 1,
+    "trust_score": 0.7137
+  },
+  {
+    "timestamp": "2025-06-20 09:42:44",
+    "input": {
+      "avg_speed": 0.0172,
+      "max_speed": 7.04,
+      "num_events": 88.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:42:45",
+    "input": {
+      "avg_speed": 0.0217,
+      "max_speed": 6.22,
+      "num_events": 103.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0552
+  },
+  {
+    "timestamp": "2025-06-20 09:42:46",
+    "input": {
+      "avg_speed": 0.0361,
+      "max_speed": 7.38,
+      "num_events": 101.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  },
+  {
+    "timestamp": "2025-06-20 09:42:47",
+    "input": {
+      "avg_speed": 0.0388,
+      "max_speed": 6.56,
+      "num_events": 90.0,
+      "event_clicks": 0.0
+    },
+    "prediction": 0,
+    "trust_score": 0.0546
+  }
+]
